@@ -3,7 +3,8 @@
 Investigação de um indicador de comprometimento (IOC) com ferramentas gratuitas de Threat Intelligence, simulando a triagem feita por um analista de SOC N1.
 
 **Data da análise:** 09/11/2026
-**Autor:** Gabriel William Carvalho da Silva
+
+**Autor:** Gabriel William 
 
 ---
 
